@@ -1,433 +1,431 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-name="KCBS-TV CBS 2 (Los Angeles CA)" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-name="CA | LA | CBS KCBS" group-title="Local - CBS",CA | LA | CBS KCBS
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2637.ts
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-name="KNBC-TV NBC 4 (Los Angeles CA)" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-name="CA | LA | CBS KNBC" group-title="Local - NBC",CA | LA | NBC KNBC
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2453.ts
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-name="KTLA-TV CW 5 (Los Angeles CA)" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-name="CA | LA | CW KTLA" group-title="Local - CW/IND/MY",CA | LA | CW KTLA
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/87547.ts
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="KABC-TV ABC 7 (Los Angeles CA)" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="CA | LA | ABC KABC" group-title="Local - ABC",CA | LA | ABC KABC
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2684.ts
-#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-name="KCAL-TV CBS/Ind. 9 (Los Angeles CA)" group-title="Local Channels (Not 24/7)",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-name="CA | LA | KCAL" group-title="Local - CW/IND/MY",CA | LA | KCAL
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/87548.ts
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="KTTV-TV FOX 11 (Los Angeles CA)" group-title="Local Channels (Not 24/7)",KTTV-TV FOX 11 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="CA | LA | FOX KTTV" group-title="Local - FOX",CA | LA | FOX KTTV
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2550.ts
-#EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-name="KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
+#EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-name="CA | LA | MY KCOP" group-title="Local - CW/IND/MY",CA | LA | MY KCOP
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2478.ts
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="WCBS-TV CBS 2 (New York NY)" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="NY | NYC | CBS WCBS" group-title="Local - CBS",NY | NYC | CBS WCBS
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89712.ts
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="WNBC-TV NBC 4 (New York NY)" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NY | NYC | NBC WNBC" group-title="Local - NBC",NY | NYC | NBC WNBC
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89714.ts
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="WNYW-TV FOX 5 (New York NY)" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="NY | NYC | FOX WNYW" group-title="Local - FOX",NY | NYC | FOX WNYW
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2544.ts
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="WABC-TV ABC 7 (New York NY)" group-title="Local Channels (Not 24/7)",WABC-TV ABC 7 (New York NY)
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | NYC | ABC WABC" group-title="Local - ABC",NY | NYC | ABC WABC
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3606.ts
-#EXTINF:-1 tvg-id="WWOR-DT.us_locals1" tvg-name="WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)" group-title="Local Channels (Not 24/7)",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
+#EXTINF:-1 tvg-id="WWOR-DT.us_locals1" tvg-name="NY | NYC | MY WWOR" group-title="Local - CW/IND/MY",NY | NYC | MY WWOR
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/597173.ts
-#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-name="WPIX-TV CW 11 (PIX 11+) (New York NY)" group-title="Local Channels (Not 24/7)",WPIX-TV CW 11 (PIX 11+) (New York NY)
+#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-name="NY | NYC | CW WPIX" group-title="Local - CW/IND/MY",NY | NYC | CW WPIX
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/93093.ts
-#EXTINF:-1 tvg-id="WLNY-DT.us_locals1" tvg-name="WLNY-TV CBS/Ind. 10/55 (New York NY)" group-title="Local Channels (Not 24/7)",WLNY-TV CBS/Ind. 10/55 (New York NY)
+#EXTINF:-1 tvg-id="WLNY-DT.us_locals1" tvg-name="NY | NYC | WLNY" group-title="Local - CW/IND/MY",NY | NYC | WLNY
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89717.ts
-#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="WBBM-TV CBS 2 (Chicago IL)" group-title="Local Channels (Not 24/7)",WBBM-TV CBS 2 (Chicago IL)
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS WBBM" group-title="Local - CBS",IL | Chicago | CBS WBBM
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2648.ts
-#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="WMAQ-TV NBC 5 (Chicago IL)" group-title="Local Channels (Not 24/7)",WMAQ-TV NBC 5 (Chicago IL)
+#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="IL | Chicago | NBC WMAQ" group-title="Local - NBC",IL | Chicago | NBC WMAQ
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2464.ts
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="WLS-TV ABC 7 (Chicago IL)" group-title="Local Channels (Not 24/7)",WLS-TV ABC 7 (Chicago IL)
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC WLS" group-title="Local - ABC",IL | Chicago | ABC WLS
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2695.ts
-#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN-TV CW 9 (Chicago IL)" group-title="Local Channels (Not 24/7)",WGN-TV CW 9 (Chicago IL)
+#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN" group-title="Local - CW/IND/MY",IL | Chicago | CW WGN
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/85340.ts
-#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="WCIU-TV CW/Ind. (TheU) 26 (Chicago IL)" group-title="Local Channels (Not 24/7)",WCIU-TV CW/Ind. (TheU) 26 (Chicago IL)
+#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="IL | Chicago | WCIU" group-title="Local - CW/IND/MY",IL | Chicago | WCIU
 http://hardcoremedia.xyz:80/live/BG992263/38692743/117146.ts
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="WFLD-TV FOX 32 (Chicago IL)" group-title="Local Channels (Not 24/7)",WFLD-TV FOX 32 (Chicago IL)
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="IL | Chicago | FOX WFLD" group-title="Local - FOX",IL | Chicago | FOX WFLD
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2567.ts
-#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)" group-title="Local Channels (Not 24/7)",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
+#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="IL | Chicago | MY WPWR" group-title="Local - CW/IND/MY",IL | Chicago | MY WPWR
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/92927.ts
-#EXTINF:-1 tvg-id="WJBK-DT.us_locals1" tvg-name="WJBK-TV FOX 2 (Detroit MI)" group-title="Local Channels (Not 24/7)",WJBK-TV FOX 2 (Detroit MI)
+#EXTINF:-1 tvg-id="WJBK-DT.us_locals1" tvg-name="MI | Detroit | FOX WJBK" group-title="Local - FOX",MI | Detroit | FOX WJBK
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2558.ts
-#EXTINF:-1 tvg-id="WDIV-DT.us_locals1" tvg-name="WDIV-TV NBC 4 (Detroit MI)" group-title="Local Channels (Not 24/7)",WDIV-TV NBC 4 (Detroit MI)
+#EXTINF:-1 tvg-id="WDIV-DT.us_locals1" tvg-name="MI | Detroit | NBC WDIV" group-title="Local - NBC",MI | Detroit | NBC WDIV
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2459.ts
-#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" tvg-name="WXYZ-TV ABC 7 (Detroit MI)" group-title="Local Channels (Not 24/7)",WXYZ-TV ABC 7 (Detroit MI)
+#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" tvg-name="MI | Detroit | ABC WXYZ" group-title="Local - ABC",MI | Detroit | ABC WXYZ
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2690.ts
-#EXTINF:-1 tvg-id="WKBD-DT.us_locals1" tvg-name="WKBD-TV CW 50 (Detroit MI)" group-title="Local Channels (Not 24/7)",WKBD-TV CW 50 (Detroit MI)
+#EXTINF:-1 tvg-id="WKBD-DT.us_locals1" tvg-name="MI | Detroit | CW WKBD" group-title="Local - CW/IND/MY",MI | Detroit | CW WKBD
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89623.ts
-#EXTINF:-1 tvg-id="WWJ-DT.us_locals1" tvg-name="WWJ-TV CBS 62 (Detroit MI)" group-title="Local Channels (Not 24/7)",WWJ-TV CBS 62 (Detroit MI)
+#EXTINF:-1 tvg-id="WWJ-DT.us_locals1" tvg-name="MI | Detroit | CBS WWJ" group-title="Local - CBS",MI | Detroit | CBS WWJ
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/88065.ts
-#EXTINF:-1 tvg-id="WCCO-DT.us_locals1" tvg-name="WCCO-TV CBS 4 (Minneapolis/St. Paul MN)" group-title="Local Channels (Not 24/7)",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="WCCO-DT.us_locals1" tvg-name="MN | St Paul | CBS WCCO" group-title="Local - CBS",MN | St Paul | CBS WCCO
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2634.ts
-#EXTINF:-1 tvg-id="KSTP-DT.us_locals1" tvg-name="KSTP-TV ABC 5 (Minneapolis/St. Paul MN)" group-title="Local Channels (Not 24/7)",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="KSTP-DT.us_locals1" tvg-name="MN | St Paul | ABC KTSP" group-title="Local - ABC",MN | St Paul | ABC KTSP
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2673.ts
-#EXTINF:-1 tvg-id="KMSP-DT.us_locals1" tvg-name="KMSP-TV FOX 9 (Minneapolis/St. Paul MN)" group-title="Local Channels (Not 24/7)",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="KMSP-DT.us_locals1" tvg-name="MN | St Paul | FOX KMSP" group-title="Local - FOX",MN | St Paul | FOX KMSP
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2547.ts
-#EXTINF:-1 tvg-id="KARE-DT.us_locals1" tvg-name="KARE-TV NBC 11 (Minneapolis/St. Paul MN)" group-title="Local Channels (Not 24/7)",KARE-TV NBC 11 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="KARE-DT.us_locals1" tvg-name="MN | St Paul | NBC KARE" group-title="Local - NBC",MN | St Paul | NBC KARE
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2450.ts
-#EXTINF:-1 tvg-id="WUCW-DT.us_locals1" tvg-name="WUCW-TV CW 23 (Minneapolis/St. Paul MN)" group-title="Local Channels (Not 24/7)",WUCW-TV CW 23 (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="WUCW-DT.us_locals1" tvg-name="MN | St Paul | CW WUCW" group-title="Local - CW/IND/MY",MN | St Paul | CW WUCW
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38311.ts
-#EXTINF:-1 tvg-id="WFTC-DT.us_locals1" tvg-name="WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN)" group-title="Local Channels (Not 24/7)",WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="WFTC-DT.us_locals1" tvg-name="MN | St Paul | MY WFTC" group-title="Local - CW/IND/MY",MN | St Paul | MY WFTC
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/597166.ts
-#EXTINF:-1 tvg-id="KYW-DT.us_locals1" tvg-name="KYW-TV CBS 3 (Philadelphia PA)" group-title="Local Channels (Not 24/7)",KYW-TV CBS 3 (Philadelphia PA)
+#EXTINF:-1 tvg-id="KYW-DT.us_locals1" tvg-name="PA | Philly | CBS KYW" group-title="Local - CBS",PA | Philly | CBS KYW
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2629.ts
-#EXTINF:-1 tvg-name="WPVI-TV ABC 6 (Philadelphia PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPVI-TV ABC 6 (Philadelphia PA)
+#EXTINF:-1 tvg-id="WPVI-DT.us_locals1" tvg-name="PA | Philly | ABC WPVI" group-title="Local - ABC",PA | Philly | ABC WPVI
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2678.ts
-#EXTINF:-1 tvg-name="WCAU-TV NBC 10 (Philadelphia PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCAU-TV NBC 10 (Philadelphia PA)
+#EXTINF:-1 tvg-id="WCAU-DT.us_locals1" tvg-name="PA | Philly | NBC WCAU" group-title="Local - NBC",WCAU-TV NBC 10 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2445.ts
-#EXTINF:-1 tvg-name="WHPL-TV CW 17 (Philadelphia PA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WHPL-TV CW 17 (Philadelphia PA)
+#EXTINF:-1 tvg-id="WHPL-DT.us_locals1" tvg-name="PA | Philly | CW WHPL" group-title="Local - CW/IND/MY",WHPL-TV CW 17 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/433308.ts
-#EXTINF:-1 tvg-name="WTXF-TV FOX 29 (Philadelphia PA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTXF-TV FOX 29 (Philadelphia PA)
+#EXTINF:-1 tvg-id="FOX WTXF-DT.us_locals1" tvg-name="PA | Philly | FOX WTXF" group-title="Local - FOX",WTXF-TV FOX 29 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2540.ts
-#EXTINF:-1 tvg-name="WPSG-TV Ind. Philly 57 (Philadelphia PA)" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/08/philly-57-logo-768x434.jpg" group-title="Local Channels (Not 24/7)",WPSG-TV Ind. Philly 57 (Philadelphia PA)
+#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philly | Philly57" group-title="Local - CW/IND/MY",WPSG-TV Ind. Philly 57 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/34426.ts
-#EXTINF:-1 tvg-name="WBZ-TV CBS 4 (Boston MA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBZ-TV CBS 4 (Boston MA)
+#EXTINF:-1 tvg-id="WBZ-DT.us_locals1" tvg-name="MA | Boston | CBS WBZ" group-title="Local - CBS",WBZ-TV CBS 4 (Boston MA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/88036.ts
-#EXTINF:-1 tvg-name="WCVB-TV ABC 5 (Boston MA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WCVB-TV ABC 5 (Boston MA)
+#EXTINF:-1 tvg-id="WCVB-DT.us_locals1" tvg-name="MA | Boston | ABC WCVB" group-title="Local - ABC",WCVB-TV ABC 5 (Boston MA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2697.ts
-#EXTINF:-1 tvg-name="WBTS-LD NBC 10 (Boston MA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBTS-LD NBC 10 (Boston MA)
+#EXTINF:-1 tvg-id="WBTS-CD.us_locals1" tvg-name="MA | Boston | NBC WBTS" group-title="Local - NBC",WBTS-LD NBC 10 (Boston MA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2467.ts
-#EXTINF:-1 tvg-name="WFXT-CD FOX 25 (Boston MA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFXT-CD FOX 25 (Boston MA)
+#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="MA | Boston | FOX WFXT" group-title="Local - FOX",WFXT-CD FOX 25 (Boston MA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2570.ts
-#EXTINF:-1 tvg-name="WSBK-TV Ind. 38 (Boston MA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/WSBK-TV_logo.svg/960px-WSBK-TV_logo.svg.png" group-title="Local Channels (Not 24/7)",WSBK-TV Ind. 38 (Boston MA)
+#EXTINF:-1 tvg-id="WSBK-DT.us_locals1" tvg-name="MA | Boston | WSBK" group-title="Local - CW/IND/MY",WSBK-TV Ind. 38 (Boston MA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/92926.ts
-#EXTINF:-1 tvg-name="WLVI-TV CW 56 (Boston MA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WLVI-TV CW 56 (Boston MA)
+#EXTINF:-1 tvg-id="WLVI-DT.us_locals1" tvg-name="MA | Boston | CW WLVI " group-title="Local - CW/IND/MY",WLVI-TV CW 56 (Boston MA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/629809.ts
-#EXTINF:-1 tvg-name="KDKA-TV CBS 2 (Pittsburgh PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KDKA-TV CBS 2 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="KDKA-DT.us_locals1" tvg-name="PA | Pittsburgh | CBS KDKA" group-title="Local - CBS",KDKA-TV CBS 2 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2627.ts
-#EXTINF:-1 tvg-name="WTAE-TV ABC 4 (Pittsburgh PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTAE-TV ABC 4 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" tvg-name="PA | Pittsburgh | ABC WTAE" group-title="Local - ABC",WTAE-TV ABC 4 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2676.ts
-#EXTINF:-1 tvg-name="WPXI-TV NBC 11 (Pittsburgh PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WPXI-TV NBC 11 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="WPXI-DT.us_locals1" tvg-name="PA | Pittsburgh | NBC WPXI" group-title="Local - NBC",WPXI-TV NBC 11 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2443.ts
-#EXTINF:-1 tvg-name="WPCW-TV CW 19 (KDKA+) (Pittsburgh PA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WPCW-TV CW 19 (KDKA+) (Pittsburgh PA)
+#EXTINF:-1 tvg-id="WPKD-DT.us_locals1" tvg-name="PA | Pittsburgh | CW WPKD" group-title="Local - CW/IND/MY",WPCW-TV CW 19 (KDKA+) (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/34432.ts
-#EXTINF:-1 tvg-name="WPGH-CD FOX 53 (Pittsburgh PA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WPGH-CD FOX 53 (Pittsburgh PA)
+#EXTINF:-1 tvg-id="WPGH-DT.us_locals1" tvg-name="PA | Pittsburgh | FOX WPGH" group-title="Local - FOX",WPGH-CD FOX 53 (Pittsburgh PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2538.ts
-#EXTINF:-1 tvg-name="WICU-TV NBC 12 (Erie PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WICU-TV NBC 12 (Erie PA)
+#EXTINF:-1 tvg-id="WICU-DT.us_locals1" tvg-name="PA | Erie | NBC WICU" group-title="Local - NBC",WICU-TV NBC 12 (Erie PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/510266.ts
-#EXTINF:-1 tvg-name="WJET-TV ABC 24 (Erie PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WJET-TV ABC 24 (Erie PA)
+#EXTINF:-1 tvg-id="WJET-DT.us_locals1" tvg-name="PA | Erie | ABC WJET" group-title="Local - ABC",WJET-TV ABC 24 (Erie PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/510265.ts
-#EXTINF:-1 tvg-name="WSEE-TV CBS 35.1 (Erie PA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WSEE-TV CBS 35.1 (Erie PA)
+#EXTINF:-1 tvg-id="WSEE-DT.us_locals1" tvg-name="PA | Erie | CBS WSEE" group-title="Local - CBS",WSEE-TV CBS 35.1 (Erie PA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/510267.ts
-#EXTINF:-1 tvg-name="WSEE-DT CW 35.2 (Erie PA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WSEE-DT CW 35.2 (Erie PA)
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/510264.ts
-#EXTINF:-1 tvg-name="WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Channels (Not 24/7)",WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA)
+#EXTINF:-1 tvg-name="WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News",WSEE-DT ENN+ (Erie News Now Plus) 35.3 (Erie PA)
 https://dai2-playlistserver.aws.syncbak.com/cpl/22958529/dai2v5/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMjk1ODUyOSIsImNpZCI6MjMyODIsInNpZCI6MTI4MywibWQ1IjoiZWZlN2JhM2Q4YzlkZjdmNzQwZTVhZDllYmRjMzQ3ZTgiLCJpYXQiOjE3MDA1OTUzNDQsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.8wbZ5PZavgTLOKpZjRmu0hUllUQo3WqJ1ammPozO0dE
-#EXTINF:-1 tvg-name="WFXP-CD TV FOX 66 (Hartford CT)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFXP-CD TV FOX 66 (Hartford CT)
+#EXTINF:-1 tvg-id="WFXP-DT.us_locals1" tvg-name="CT | Hartford | FOX WFXP" group-title="Local - FOX",WFXP-CD TV FOX 66 (Hartford CT)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/510268.ts
-#EXTINF:-1 tvg-name="WFSB-TV CBS 3 (Hartford CT)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFSB-TV CBS 3 (Hartford CT)
+#EXTINF:-1 tvg-id="WFSB-DT.us_locals1" tvg-name="CT | Hartford | CBS WFSB" group-title="Local - CBS",WFSB-TV CBS 3 (Hartford CT)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/629116.ts
-#EXTINF:-1 tvg-name="WTNH-TV ABC 8 (Hartford CT)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTNH-TV ABC 8 (Hartford CT)
+#EXTINF:-1 tvg-id="WTNH-DT.us_locals1" tvg-name="CT | Hartford | ABC WTNH" group-title="Local - ABC",WTNH-TV ABC 8 (Hartford CT)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2693.ts
-#EXTINF:-1 tvg-name="WVIT-TV NBC 30 (Hartford CT)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVIT-TV NBC 30 (Hartford CT)
+#EXTINF:-1 tvg-id="WVIT-DT.us_locals1" tvg-name="CT | Hartford | NBC WVIT" group-title="Local - NBC",WVIT-TV NBC 30 (Hartford CT)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2456.ts
-#EXTINF:-1 tvg-name="WTIC-CD TV FOX 61 (Hartford CT)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTIC-CD TV FOX 61 (Hartford CT)
+#EXTINF:-1 tvg-id="WTIC-DT.us_locals1" tvg-name="CT | Hartford | FOX WTIC" group-title="Local - FOX",WTIC-CD TV FOX 61 (Hartford CT)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2556.ts
-#EXTINF:-1 tvg-name="WFOR-TV CBS 4 (Miami FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFOR-TV CBS 4 (Miami FL)
+#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR" group-title="Local - CBS",WFOR-TV CBS 4 (Miami FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2636.ts
-#EXTINF:-1 tvg-name="WTVJ-TV NBC 6 (Miami FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVJ-TV NBC 6 (Miami FL)
+#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-name="FL | Miami | NBC WTVJ" group-title="Local - NBC",WTVJ-TV NBC 6 (Miami FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2452.ts
-#EXTINF:-1 tvg-name="WSVN-TV FOX 7 (Miami FL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WSVN-TV FOX 7 (Miami FL)
+#EXTINF:-1 tvg-id="WSVN-DT.us_locals1" tvg-name="FL | Miami | FOX WSVN" group-title="Local - FOX",WSVN-TV FOX 7 (Miami FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3641.ts
-#EXTINF:-1 tvg-name="WPLG-TV ABC 10 (Miami FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPLG-TV ABC 10 (Miami FL)
+#EXTINF:-1 tvg-id="WSVN-DT2.us_locals1" tvg-name="FL | Miami | ABC WSVN" group-title="Local - ABC",WPLG-TV ABC 10 (Miami FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3605.ts
-#EXTINF:-1 tvg-name="WBFS-TV CW/MyNetworkTV 33 (Miami FL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WBFS-TV CW/MyNetworkTV 33 (Miami FL)
+#EXTINF:-1 tvg-id="WBFS-DT.us_locals1" tvg-name="FL | Miami | CW WBFS" group-title="Local - CW/IND/MY",WBFS-TV CW/MyNetworkTV 33 (Miami FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38327.ts
-#EXTINF:-1 tvg-name="WSFL-TV CW/Ind. 39 (Miami FL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WSFL-TV CW/Ind. 39 (Miami FL)
+#EXTINF:-1 tvg-id="WSFL-DT.us_locals1" tvg-name="FL | Miami | WSFL" group-title="Local - CW/IND/MY",WSFL-TV CW/Ind. 39 (Miami FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/433867.ts
-#EXTINF:-1 tvg-name="WFLA-TV NBC 8 (Tampa Bay FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFLA-TV NBC 8 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="WFLA-DT.us_locals1" tvg-name="FL | Tampa | NBC WFLA" group-title="Local - NBC",WFLA-TV NBC 8 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/59890.ts
-#EXTINF:-1 tvg-name="WTSP-DT CBS 10 (Tampa Bay FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTSP-DT CBS 10 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="WTSP-DT.us_locals1" tvg-name="FL | Tampa | CBS WTSP" group-title="Local - CBS",WTSP-DT CBS 10 (Tampa Bay FL)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
-#EXTINF:-1 tvg-name="WTVT-TV FOX 13 (Tampa Bay FL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTVT-TV FOX 13 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="WTVT-DT.us_locals1" tvg-name="FL | Tampa | FOX WTVT" group-title="Local - FOX",WTVT-TV FOX 13 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2504.ts
-#EXTINF:-1 tvg-name="WFTS-TV ABC 28 (Tampa Bay FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WFTS-TV ABC 28 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="FL | Tampa | ABC WFTS" group-title="Local - ABC",WFTS-TV ABC 28 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2666.ts
-#EXTINF:-1 tvg-name="WTOG-TV Ind. 44 (Tampa Bay FL)" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/08/tampa-bay-44-logo-768x434.jpg" group-title="Local Channels (Not 24/7)",WTOG-TV Ind. 44 (Tampa Bay FL)
+#EXTINF:-1 tvg-id="WTOG-DT.us_locals1" tvg-name="FL | Tampa | WTOG" group-title="Local - CW/IND/MY",WTOG-TV Ind. 44 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89505.ts
-#EXTINF:-1 tvg-name="WESH-TV NBC 2 (Orlando FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WESH-TV NBC 2 (Orlando FL)
+#EXTINF:-1 tvg-id="WESH-DT.us_locals1" tvg-name="FL | Orlando | NBC WESH" group-title="Local - NBC",WESH-TV NBC 2 (Orlando FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89484.ts
-#EXTINF:-1 tvg-name="WKMG-TV CBS 6 (Orlando FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WKMG-TV CBS 6 (Orlando FL)
+#EXTINF:-1 tvg-id="WKMG-DT.us_locals1" tvg-name="FL | Orlando | CBS WKMG" group-title="Local - CBS",WKMG-TV CBS 6 (Orlando FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2630.ts
-#EXTINF:-1 tvg-name="WFTV-TV ABC 9 (Orlando FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WFTV-TV ABC 9 (Orlando FL)
+#EXTINF:-1 tvg-id="WFTV-DT.us_locals1" tvg-name="FL | Orlando | ABC WFTV" group-title="Local - ABC",WFTV-TV ABC 9 (Orlando FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2679.ts
-#EXTINF:-1 tvg-name="WKCF-TV CW 18 (Orlando FL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WKCF-TV CW 18 (Orlando FL)
+#EXTINF:-1 tvg-id="WKCF-DT.us_locals1" tvg-name="FL | Orlando | CW WKCF" group-title="Local - CW/IND/MY",WKCF-TV CW 18 (Orlando FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/333488.ts
-#EXTINF:-1 tvg-name="WOFL-TV FOX 35 (Orlando FL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WOFL-TV FOX 35 (Orlando FL)
+#EXTINF:-1 tvg-id="WOFL-DT.us_locals1" tvg-name="FL | Orlando | FOX WOFL" group-title="Local - FOX",WOFL-TV FOX 35 (Orlando FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2541.ts
-#EXTINF:-1 tvg-name="WACX-TV 55.1 SuperChannel Orlando (Orlando FL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SuperChannel_2021.png" group-title="Local Channels (Not 24/7)",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
+#EXTINF:-1 tvg-id="WACX-DT.us_locals1" tvg-name="FL | Orlando | WACX SuperChannel" group-title="Local - CW/IND/MY",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)
+#EXTINF:-1 tvg-id="WRBW-DT.us_locals1" tvg-name="FL | Orlando | MY WRBW" group-title="Local - CW/IND/MY",WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/383407.ts
-#EXTINF:-1 tvg-name="WNBW-DT NBC 9 (Gainsville FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBW-DT NBC 9 (Gainsville FL)
-https://fl1.moveonjoy.com/FL_Gainesville_NBC/mpegts
-#EXTINF:-1 tvg-name="WCJB-TV ABC 20 (Gainsville FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WCJB-TV ABC 20 (Gainsville FL)
-https://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/mpegts
-#EXTINF:-1 tvg-name="WOGX-TV FOX 51 (Ocala/Gainsville FL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WOGX-TV FOX 51 (Ocala/Gainsville FL)
+#EXTINF:-1 tvg-id="WNBW-DT.us_locals1" tvg-name="FL | Gainesville | NBC WNBW" group-title="Offline",WNBW-DT NBC 9 (Gainsville FL)
+
+#EXTINF:-1 tvg-id="WCJB-DT.us_locals1" tvg-name="FL | Gainesville | ABC WCJB" group-title="Offline",WCJB-TV ABC 20 (Gainsville FL)
+
+#EXTINF:-1 tvg-id="WOGX-DT.us_locals1" tvg-name="FL | Gainesville | FOX WOGX" group-title="Local - FOX",WOGX-TV FOX 51 (Ocala/Gainsville FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89499.ts
-#EXTINF:-1 tvg-name="WWSB-TV ABC 7 (Sarasota FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WWSB-TV ABC 7 (Sarasota FL)
+#EXTINF:-1 tvg-id="WWSB-DT.us_locals1" tvg-name="FL | Sarasota | ABC WWSB" group-title="Local - ABC",WWSB-TV ABC 7 (Sarasota FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/112252.ts
-#EXTINF:-1 tvg-name="KOB-TV NBC 4 (Albuquerque NM)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOB-TV NBC 4 (Albuquerque NM)
+#EXTINF:-1 tvg-id="KOB-DT.us_locals1" tvg-name="NM | Albuquerque | NBC KOB" group-title="Local - NBC",KOB-TV NBC 4 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/77964.ts
-#EXTINF:-1 tvg-name="KOAT-TV ABC 7 (Albuquerque NM)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KOAT-TV ABC 7 (Albuquerque NM)
+#EXTINF:-1 tvg-id="KOAT-DT.us_locals1" tvg-name="NM | Albuquerque | ABC KOAT" group-title="Local - ABC",KOAT-TV ABC 7 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38302.ts
-#EXTINF:-1 tvg-name="KRQE-TV CBS 13.1 (Albuquerque NM)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KRQE-TV CBS 13.1 (Albuquerque NM)
+#EXTINF:-1 tvg-id="KRQE-DT.us_locals1" tvg-name="NM | Albuquerque | CBS KRQE" group-title="Local - CBS",KRQE-TV CBS 13.1 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/77965.ts
-#EXTINF:-1 tvg-name="KRQE-TV FOX 13.2 (Albuquerque NM)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KRQE-TV FOX 13.2 (Albuquerque NM)
+#EXTINF:-1 tvg-id="KRQE-DT2.us_locals1" tvg-name="NM | Albuquerque | FOX KRQE" group-title="Local - FOX",KRQE-TV FOX 13.2 (Albuquerque NM)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89695.ts
-#EXTINF:-1 tvg-name="KDBC-TV CBS 4 (El Paso TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KDBC-TV CBS 4 (El Paso TX)
+#EXTINF:-1 tvg-id="KDBC-DT.us_locals1" tvg-name="TX | El Paso | CBS KDBC" group-title="Local - CBS",KDBC-TV CBS 4 (El Paso TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89826.ts
-#EXTINF:-1 tvg-name="KVIA-TV ABC 7 (El Paso TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KVIA-TV ABC 7 (El Paso TX)
+#EXTINF:-1 tvg-id="KVIA-DT.us_locals1" tvg-name="TX | El Paso | ABC KVIA" group-title="Local - ABC",KVIA-TV ABC 7 (El Paso TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38309.ts
-#EXTINF:-1 tvg-name="KTSM-TV NBC 9 (El Paso TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTSM-TV NBC 9 (El Paso TX)
+#EXTINF:-1 tvg-id="KTSM-DT.us_locals1" tvg-name="TX | El Paso | NBC KTSM" group-title="Local - NBC",KTSM-TV NBC 9 (El Paso TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89827.ts
-#EXTINF:-1 tvg-name="KFOX-TV FOX 14 (El Paso TX)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KFOX-TV FOX 14 (El Paso TX)
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" tvg-name="TX | El Paso | FOX KFOX" group-title="Local - FOX",KFOX-TV FOX 14 (El Paso TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/566739.ts
-#EXTINF:-1 tvg-name="KIII-TV ABC 3 (Corpus Christi TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KIII-TV ABC 3 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="KIII-DT.us_locals1" tvg-name="TX | Corpus Christi | ABC KIII" group-title="Local - ABC",KIII-TV ABC 3 (Corpus Christi TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/721023.ts
-#EXTINF:-1 tvg-name="KRIS-TV NBC 6 (Corpus Christi TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KRIS-TV NBC 6 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="KRIS-DT.us_locals1" tvg-name="TX | Corpus Christi | NBC KRIS" group-title="Local - NBC",KRIS-TV NBC 6 (Corpus Christi TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89823.ts
-#EXTINF:-1 tvg-name="KZTV-TV CBS 10 (Corpus Christi TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KZTV-TV CBS 10 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="KZTV-DT.us_locals1" tvg-name="TX | Corpus Christi | CBS KZTV" group-title="Local - CBS",KZTV-TV CBS 10 (Corpus Christi TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89822.ts
-#EXTINF:-1 tvg-name="KSCC-TV FOX 38 (Corpus Christi TX)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KSCC-TV FOX 38 (Corpus Christi TX)
+#EXTINF:-1 tvg-id="KSCC-DT.us_locals1" tvg-name="TX | Corpus Christi | FOX KSCC" group-title="Local - FOX",KSCC-TV FOX 38 (Corpus Christi TX)
 http://xxip25.top:8080/live/char@dot.com/char@14223/216549.ts
-#EXTINF:-1 tvg-name="KCBD-TV NBC 11 (Lubbock TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBD-TV NBC 11 (Lubbock TX)
+#EXTINF:-1 tvg-id="KCBD-DT.us_locals1" tvg-name="TX | Lubbock | NBC KCBD" group-title="Local - NBC",KCBD-TV NBC 11 (Lubbock TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38305.ts
-#EXTINF:-1 tvg-name="KLBK-TV CBS 13 (Lubbock TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KLBK-TV CBS 13 (Lubbock TX)
+#EXTINF:-1 tvg-id="KLBK-DT.us_locals1" tvg-name="TX | Lubbock | CBS KLBK" group-title="Local - CBS",KLBK-TV CBS 13 (Lubbock TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38304.ts
-#EXTINF:-1 tvg-name="KAMC-TV ABC 28 (Lubbock TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KAMC-TV ABC 28 (Lubbock TX)
+#EXTINF:-1 tvg-id="KAMC-DT.us_locals1" tvg-name="TX | Lubbock | ABC KAMC" group-title="Local - ABC",KAMC-TV ABC 28 (Lubbock TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38303.ts
-#EXTINF:-1 tvg-name="KJTV-TV FOX 34 (Lubbock TX)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KJTV-TV FOX 34 (Lubbock TX)
+#EXTINF:-1 tvg-id="KJTV-DT.us_locals1" tvg-name="TX | Lubbock | FOX KJTV" group-title="Local - FOX",KJTV-TV FOX 34 (Lubbock TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89843.ts
-#EXTINF:-1 tvg-name="KCWX-TV MyNetworkTV 2 (San Antonio TX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCWX-TV MyNetworkTV 2 (San Antonio TX)
+#EXTINF:-1 tvg-id="KCWX-DT.us_locals1" tvg-name="TX | San Antonio | MY KCWX" group-title="Local - CW/IND/MY",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="WOAI-TV NBC 4.1 (San Antonio TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WOAI-TV NBC 4.1 (San Antonio TX)
+#EXTINF:-1 tvg-id="WOAI-DT.us_locals1" tvg-name="TX | San Antonio | NBC WOAI" group-title="Local - NBC",WOAI-TV NBC 4.1 (San Antonio TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89853.ts
-#EXTINF:-1 tvg-name="KENS-TV CBS 5 (San Antonio TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KENS-TV CBS 5 (San Antonio TX)
+#EXTINF:-1 tvg-id="KENS-DT.us_locals1" tvg-name="TX | San Antonio | CBS KENS" group-title="Local - CBS",KENS-TV CBS 5 (San Antonio TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2624.ts
-#EXTINF:-1 tvg-name="KSAT-TV ABC 12 (San Antonio TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KSAT-TV ABC 12 (San Antonio TX)
+#EXTINF:-1 tvg-id="KSAT-DT.us_locals1" tvg-name="TX | San Antonio | ABC KSAT" group-title="Local - ABC",KSAT-TV ABC 12 (San Antonio TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2671.ts
-#EXTINF:-1 tvg-name="KABB-TV FOX 29 (San Antonio TX)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KABB-TV FOX 29 (San Antonio TX)
+#EXTINF:-1 tvg-id="KABB-DT.us_locals1" tvg-name="TX | San Antonio | FOX KABB" group-title="Local - FOX",KABB-TV FOX 29 (San Antonio TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2535.ts
-#EXTINF:-1 tvg-name="KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)
+#EXTINF:-1 tvg-name="TX | San Antonio | CW WOAI" group-title="Local - CW/IND/MY",CW WOAI2 EPG
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/629971.ts
-#EXTINF:-1 tvg-name="KDFW-TV FOX 4 (Ft. Worth/Dallas TX)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="KDFW-DT.us_locals1" tvg-name="TX | FTW-Dallas | FOX KDFW" group-title="Local - FOX",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89824.ts
-#EXTINF:-1 tvg-name="KXAS-TV NBC 5 (Ft. Worth/Dallas TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="KXAS-DT.us_locals1" tvg-name="TX | FTW-Dallas | NBC KXAS" group-title="Local - NBC",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2461.ts
-#EXTINF:-1 tvg-name="WFAA-TV ABC 8 (Ft. Worth/Dallas TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WFAA-TV ABC 8 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="WFAA-DT.us_locals1" tvg-name="TX | FTW-Dallas | ABC WFAA" group-title="Local - ABC",WFAA-TV ABC 8 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2692.ts
-#EXTINF:-1 tvg-name="KTVT-TV CBS 11 (Ft. Worth/Dallas TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="KTVT-DT.us_locals1" tvg-name="TX | FTW-Dallas | CBS KTVT" group-title="Local - CBS",KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2645.ts
-#EXTINF:-1 tvg-name="KTXA-TV Ind. 21 (Ft. Worth/Dallas TX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/TXA_21_2012.svg/2560px-TXA_21_2012.svg.png" group-title="Local Channels (Not 24/7)",KTXA-TV Ind. 21 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="KTXA-DT.us_locals1" tvg-name="TX | FTW-Dallas | KTXA" group-title="Local - CW/IND/MY",KTXA-TV Ind. 21 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38295.ts
-#EXTINF:-1 tvg-name="KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="KDFI-DT.us_locals1" tvg-name="TX | FTW-Dallas | MY KDFI" group-title="Local - CW/IND/MY",KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/597158.ts
-#EXTINF:-1 tvg-name="KDAFF-TV CW 39 (Ft. Worth/Dallas TX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KDAFF-TV CW 39 (Ft. Worth/Dallas TX)
+#EXTINF:-1 tvg-id="KDAF-DT.us_locals1" tvg-name="TX | FTW-Dallas | CW KDAF" group-title="Local - CW/IND/MY",KDAFF-TV CW 39 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/597161.ts
-#EXTINF:-1 tvg-name="KPRC-TV NBC 2 (Houston TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPRC-TV NBC 2 (Houston TX)
+#EXTINF:-1 tvg-id="KPRC-DT.us_locals1" tvg-name="TX | Houston | NBC KPRC" group-title="Local - NBC",KPRC-TV NBC 2 (Houston TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2455.ts
-#EXTINF:-1 tvg-name="KHOU-TV CBS 8 (Houston TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KHOU-TV CBS 8 (Houston TX)
+#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="TX | Houston | CBS KHOU" group-title="Local - CBS",KHOU-TV CBS 8 (Houston TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2640.ts
-#EXTINF:-1 tvg-name="KTRK-TV ABC 13 (Houston TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTRK-TV ABC 13 (Houston TX)
+#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" tvg-name="TX | Houston | ABC KTRK" group-title="Local - ABC",KTRK-TV ABC 13 (Houston TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2687.ts
-#EXTINF:-1 tvg-name="KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX)
+#EXTINF:-1 tvg-id="KTXH-DT.us_locals1" tvg-name="TX | Houston | MY KTXH" group-title="Local - CW/IND/MY",KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/50091.ts
-#EXTINF:-1 tvg-name="KRIV-TV FOX 26 (Houston TX)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KRIV-TV FOX 26 (Houston TX)
+#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="TX | Houston | FOX KRIV" group-title="Local - FOX",KRIV-TV FOX 26 (Houston TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89836.ts
-#EXTINF:-1 tvg-name="KIAH-TV CW 39 (Houston TX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KIAH-TV CW 39 (Houston TX)
+#EXTINF:-1 tvg-id="KIAH-DT.us_locals1" tvg-name="TX | Houston | CW KIAH" group-title="Local - CW/IND/MY",KIAH-TV CW 39 (Houston TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/643838.ts
-#EXTINF:-1 tvg-name="KTBC-TV FOX 7 (Austin TX)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTBC-TV FOX 7 (Austin TX)
+#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" tvg-name="TX | Austin | FOX KTBC" group-title="Local - FOX",KTBC-TV FOX 7 (Austin TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38241.ts
-#EXTINF:-1 tvg-name="KVUE-TV ABC 24 (Austin TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KVUE-TV ABC 24 (Austin TX)
+#EXTINF:-1 tvg-id="KVUE-DT.us_locals1" tvg-name="TX | Austin | ABC KVUE" group-title="Local - ABC",KVUE-TV ABC 24 (Austin TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38241.ts
-#EXTINF:-1 tvg-name="KXAN-TV NBC 36 (Austin TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KXAN-TV NBC 36 (Austin TX)
+#EXTINF:-1 tvg-id="KXAN-DT.us_locals1" tvg-name="TX | Austin | NBC KXAN" group-title="Local - NBC",KXAN-TV NBC 36 (Austin TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/85342.ts
-#EXTINF:-1 tvg-name="KEYE-TV CBS 42 (Austin TX)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KEYE-TV CBS 42 (Austin TX)
+#EXTINF:-1 tvg-id="KEYE-DT.us_locals1" tvg-name="TX | Austin | CBS KEYE" group-title="Local - CBS",KEYE-TV CBS 42 (Austin TX)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/85343.ts
-#EXTINF:-1 tvg-name="WWL-TV CBS 4 (New Orleans LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WWL-TV CBS 4 (New Orleans LA)
+#EXTINF:-1 tvg-id="WWL-DT.us_locals1" tvg-name="LA | New Orleans | CBS WWL" group-title="Local - CBS",WWL-TV CBS 4 (New Orleans LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2632.ts
-#EXTINF:-1 tvg-name="WDSU-TV NBC 6 (New Orleans LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDSU-TV NBC 6 (New Orleans LA)
+#EXTINF:-1 tvg-id="WDSU-DT.us_locals1" tvg-name="LA | New Orleans | NBC WDSU" group-title="Local - NBC",WDSU-TV NBC 6 (New Orleans LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2448.ts
-#EXTINF:-1 tvg-name="WVUE-TV FOX 8 (New Orleans LA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WVUE-TV FOX 8 (New Orleans LA)
+#EXTINF:-1 tvg-id="WVUE-DT.us_locals1" tvg-name="LA | New Orleans | FOX WVUE" group-title="Local - FOX",WVUE-TV FOX 8 (New Orleans LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2545.ts
-#EXTINF:-1 tvg-name="WGNO-TV ABC 26 (New Orleans LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WGNO-TV ABC 26 (New Orleans LA)
+#EXTINF:-1 tvg-id="WGNO-DT.us_locals1" tvg-name="LA | New Orleans | ABC WGNO" group-title="Local - ABC",WGNO-TV ABC 26 (New Orleans LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/510034.ts
-#EXTINF:-1 tvg-name="WBRZ-TV ABC 2 (Baton Rouge LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WBRZ-TV ABC 2 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="WBRZ-DT.us_locals1" tvg-name="LA | Baton Rouge | ABC WBRZ" group-title="Local - ABC",WBRZ-TV ABC 2 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38252.ts
-#EXTINF:-1 tvg-name="WAFB-TV CBS 9 (Baton Rouge LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAFB-TV CBS 9 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="WAFB-DT.us_locals1" tvg-name="LA | Baton Rouge | CBS WAFB" group-title="Local - CBS",WAFB-TV CBS 9 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38253.ts
-#EXTINF:-1 tvg-name="WVLA-TV NBC 33 (Baton Rouge LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVLA-TV NBC 33 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="WVLA-DT.us_locals1" tvg-name="LA | Baton Rouge | NBC WVLA" group-title="Local - NBC",WVLA-TV NBC 33 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89590.ts
-#EXTINF:-1 tvg-name="WGMB-TV FOX 44 (Baton Rouge LA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WGMB-TV FOX 44 (Baton Rouge LA)
+#EXTINF:-1 tvg-id="WGMB-DT.us_locals1" tvg-name="LA | Baton Rouge | FOX WGMB" group-title="Local - FOX",WGMB-TV FOX 44 (Baton Rouge LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89589.ts
-#EXTINF:-1 tvg-name="KTBS-TV ABC 3 (Shreveport LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTBS-TV ABC 3 (Shreveport LA)
+#EXTINF:-1 tvg-id="KTBS-DT.us_locals1" tvg-name="LA | Shreveport | ABC KTBS" group-title="Local - ABC",KTBS-TV ABC 3 (Shreveport LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38325.ts
-#EXTINF:-1 tvg-name="KTAL-TV NBC 6 (Shreveport LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTAL-TV NBC 6 (Shreveport LA)
+#EXTINF:-1 tvg-id="KTAL-DT.us_locals1" tvg-name="LA | Shreveport | NBC KTAL" group-title="Local - NBC",KTAL-TV NBC 6 (Shreveport LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89602.ts
-#EXTINF:-1 tvg-name="KSLA-TV CBS 12 (Shreveport LA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSLA-TV CBS 12 (Shreveport LA)
+#EXTINF:-1 tvg-id="KSLA-DT.us_locals1" tvg-name="LA | Shreveport | CBS KSLA" group-title="Local - CBS",KSLA-TV CBS 12 (Shreveport LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89600.ts
-#EXTINF:-1 tvg-name="KMSS-TV FOX 33 (Shreveport LA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMSS-TV FOX 33 (Shreveport LA)
+#EXTINF:-1 tvg-id="KMSS-DT.us_locals1" tvg-name="LA | Shreveport | FOX KMSS" group-title="Local - FOX",KMSS-TV FOX 33 (Shreveport LA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89601.ts
-#EXTINF:-1 tvg-name="KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/1280px-KTVK_logo.svg.png" group-title="Local Channels (Not 24/7)",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
+#EXTINF:-1 tvg-id="KTVK-DT.us_locals1" tvg-name="AZ | Phoenix | KTVK" group-title="Local - CBS",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38298.ts
-#EXTINF:-1 tvg-name="KPHO-TV CBS 5 (Phoenix AZ)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPHO-TV CBS 5 (Phoenix AZ)
+#EXTINF:-1 tvg-id="KPHO-DT.us_locals1" tvg-name="AZ | Phoenix | CBS KPHO" group-title="Local - CBS",KPHO-TV CBS 5 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2628.ts
-#EXTINF:-1 tvg-name="KSAZ-TV FOX 10.1 (Phoenix AZ)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KSAZ-TV FOX 10.1 (Phoenix AZ)
+#EXTINF:-1 tvg-id="KSAZ-DT.us_locals1" tvg-name="AZ | Phoenix | FOX KSAZ" group-title="Local - FOX",KSAZ-TV FOX 10.1 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2539.ts
-#EXTINF:-1 tvg-name="KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ)
+#EXTINF:-1 tvg-id="KUTP-DT.us_locals1" tvg-name="AZ | Phoenix | MY KUTP" group-title="Local - CW/IND/MY",KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/600290.ts
-#EXTINF:-1 tvg-name="KPNX-TV NBC 12 (Phoenix AZ)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPNX-TV NBC 12 (Phoenix AZ)
+#EXTINF:-1 tvg-id="KPNX-DT.us_locals1" tvg-name="AZ | Phoenix | NBC KPNX" group-title="Local - NBC",KPNX-TV NBC 12 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2444.ts
-#EXTINF:-1 tvg-name="KNXV-TV ABC 15 (Phoenix AZ)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KNXV-TV ABC 15 (Phoenix AZ)
+#EXTINF:-1 tvg-id="KNXV-DT.us_locals1" tvg-name="AZ | Phoenix | ABC KNXV" group-title="Local - ABC",KNXV-TV ABC 15 (Phoenix AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2677.ts
-#EXTINF:-1 tvg-name="KVOA-TV NBC 4 (Tucson AZ)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KVOA-TV NBC 4 (Tucson AZ)
+#EXTINF:-1 tvg-id="KVOA-DT.us_locals1" tvg-name="AZ | Tucson | NBC KVOA" group-title="Local - NBC",KVOA-TV NBC 4 (Tucson AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89422.ts
-#EXTINF:-1 tvg-name="KGUN-TV ABC 9 (Tucson AZ)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGUN-TV ABC 9 (Tucson AZ)
+#EXTINF:-1 tvg-id="KGUN-DT.us_locals1" tvg-name="AZ | Tucson | ABC KGUN" group-title="Local - ABC",KGUN-TV ABC 9 (Tucson AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/600301.ts
-#EXTINF:-1 tvg-name="KMSB-TV FOX 11 (Tucson AZ)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMSB-TV FOX 11 (Tucson AZ)
+#EXTINF:-1 tvg-id="KMSB-DT.us_locals1" tvg-name="AZ | Tucson | FOX KMSB" group-title="Local - FOX",KMSB-TV FOX 11 (Tucson AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89421.ts
-#EXTINF:-1 tvg-name="KOLD-TV CBS 13 (Tucson AZ)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOLD-TV CBS 13 (Tucson AZ)
+#EXTINF:-1 tvg-id="KOLD-DT.us_locals1" tvg-name="AZ | Tucson | CBS KOLD" group-title="Local - CBS",KOLD-TV CBS 13 (Tucson AZ)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89420.ts
-#EXTINF:-1 tvg-name="KSNV-TV NBC 3 (Las Vegas NV)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSNV-TV NBC 3 (Las Vegas NV)
+#EXTINF:-1 tvg-id="KSNV-DT.us_locals1" tvg-name="NV | Las Vegas | NBC KSNV" group-title="Local - NBC",KSNV-TV NBC 3 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38257.ts
-#EXTINF:-1 tvg-name="KVVU-TV FOX 5 (Las Vegas NV)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KVVU-TV FOX 5 (Las Vegas NV)
+#EXTINF:-1 tvg-id="KVVU-DT.us_locals1" tvg-name="NV | Las Vegas | FOX KVVU" group-title="Local - FOX",KVVU-TV FOX 5 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89699.ts
-#EXTINF:-1 tvg-name="KLAS-TV CBS 8 (Las Vegas NV)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KLAS-TV CBS 8 (Las Vegas NV)
+#EXTINF:-1 tvg-id="KLAS-DT.us_locals1" tvg-name="NV | Las Vegas | CBS KLAS" group-title="Local - CBS",KLAS-TV CBS 8 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89700.ts
-#EXTINF:-1 tvg-name="KTNV-TV ABC 13 (Las Vegas NV)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTNV-TV ABC 13 (Las Vegas NV)
+#EXTINF:-1 tvg-id="KTNV-DT.us_locals1" tvg-name="NV | Las Vegas | ABC KTNV" group-title="Local - ABC",KTNV-TV ABC 13 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38255.ts
-#EXTINF:-1 tvg-name="KVCW-TV CW 33 (Las Vegas NV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KVCW-TV CW 33 (Las Vegas NV)
+#EXTINF:-1 tvg-id="KVCW-DT.us_locals1" tvg-name="NV | Las Vegas | CW KVCW" group-title="Local - CW/IND/MY",KVCW-TV CW 33 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/34441.ts
-#EXTINF:-1 tvg-name="KSWB-TV FOX 5/69 (San Diego CA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KSWB-TV FOX 5/69 (San Diego CA)
+#EXTINF:-1 tvg-id="KSWB-DT.us_locals1" tvg-name="CA | San Diego | FOX KSWB" group-title="Local - FOX",KSWB-TV FOX 5/69 (San Diego CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2534.ts
-#EXTINF:-1 tvg-name="KNSD-TV NBC 7/39 (San Diego CA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNSD-TV NBC 7/39 (San Diego CA)
+#EXTINF:-1 tvg-id="KNSD-DT.us_locals1" tvg-name="CA | San Diego | NBC KNSD" group-title="Local - NBC",KNSD-TV NBC 7/39 (San Diego CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2439.ts
-#EXTINF:-1 tvg-name="KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA)
+#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" tvg-name="CA | San Diego | CBS KFMB" group-title="Local - CBS",KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2623.ts
-#EXTINF:-1 tvg-name="KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)
+#EXTINF:-1 tvg-id="KFMB-DT2.us_locals1" tvg-name="CA | San Diego | CW/MY KFMB" group-title="Local - CW/IND/MY",KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/446862.ts
-#EXTINF:-1 tvg-name="KGTV-TV ABC 10 (San Diego CA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGTV-TV ABC 10 (San Diego CA)
+#EXTINF:-1 tvg-id="KGTV-DT.us_locals1" tvg-name="CA | San Diego | ABC KGTV" group-title="Local - ABC",KGTV-TV ABC 10 (San Diego CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2670.ts
-#EXTINF:-1 tvg-name="KUSI-TV Ind. 51 (San Diego CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/KUSI_%281996%2C_standalone%29.svg/2560px-KUSI_%281996%2C_standalone%29.svg.png" group-title="Local Channels (Not 24/7)",KUSI-TV Ind. 51 (San Diego CA)
+#EXTINF:-1 tvg-id="KUSI-DT.us_locals1" tvg-name="CA | San Diego | KUSI" group-title="Local - CW/IND/MY",KUSI-TV Ind. 51 (San Diego CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/710371.ts
-#EXTINF:-1 tvg-name="KPSP-CD CBS 2/38 (Palm Springs CA)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPSP-CD CBS 2/38 (Palm Springs CA)
+#EXTINF:-1 tvg-id="KPSP-CD.us_locals1" tvg-name="CA | Palm Springs | CBS KPSP" group-title="Local - CBS",KPSP-CD CBS 2/38 (Palm Springs CA)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/182823.ts
-#EXTINF:-1 tvg-name="KESQ-TV ABC 3 (Palm Springs CA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KESQ-TV ABC 3 (Palm Springs CA)
+#EXTINF:-1 tvg-id="KESQ-DT.us_locals1" tvg-name="CA | Palm Springs | ABC KESQ" group-title="Local - ABC",KESQ-TV ABC 3 (Palm Springs CA)
 http://xxip25.top:8080/live/char@dot.com/char@14223/121235.ts
-#EXTINF:-1 tvg-name="KCWQ-LD CW 5 (Palm Springs CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KCWQ-LD CW 5 (Palm Springs CA)
+#EXTINF:-1 tvg-id="KCWQ-LD.us_locals1" tvg-name="CA | Palm Springs | CW KCWQ" group-title="Local - CW/IND/MY",KCWQ-LD CW 5 (Palm Springs CA)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/183058.ts
-#EXTINF:-1 tvg-name="KDFX-CA FOX 11/33 (Palm Springs CA)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDFX-CA FOX 11/33 (Palm Springs CA)
+#EXTINF:-1 tvg-id="KDFX-CD.us_locals1" tvg-name="CA | Palm Springs | FOX KDFX" group-title="Local - FOX",KDFX-CA FOX 11/33 (Palm Springs CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/696419.ts
-#EXTINF:-1 tvg-name="KMIR-TV NBC 36 (Palm Springs CA)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMIR-TV NBC 36 (Palm Springs CA)
+#EXTINF:-1 tvg-id="KMIR-DT.us_locals1" tvg-name="CA | Palm Springs | NBC KMIR" group-title="Local - NBC",KMIR-TV NBC 36 (Palm Springs CA)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89444.ts
-#EXTINF:-1 tvg-name="WJXT-TV 4 Ind. (Jacksonville FL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/WJXT_Logo_2014.png" group-title="Local Channels (Not 24/7)",WJXT-TV 4 Ind. (Jacksonville FL)
+#EXTINF:-1 tvg-id="WJXT-DT.us_locals1" tvg-name="FL | Jacksonsville | WJXT" group-title="Local - CW/IND/MY",WJXT-TV 4 Ind. (Jacksonville FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/607668.ts
-#EXTINF:-1 tvg-name="WTLV-TV NBC 12 (Jacksonville FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTLV-TV NBC 12 (Jacksonville FL)
+#EXTINF:-1 tvg-id="WTLV-DT.us_locals1" tvg-name="FL | Jacksonsville | NBC WTLV" group-title="Local - NBC",WTLV-TV NBC 12 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2454.ts
-#EXTINF:-1 tvg-name="WCWJ-TV CW 17 (Jacksonville FL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WCWJ-TV CW 17 (Jacksonville FL)
+#EXTINF:-1 tvg-id="WCWJ-DT.us_locals1" tvg-name="FL | Jacksonsville | CW WCWJ" group-title="Local - CW/IND/MY",WCWJ-TV CW 17 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/607669.ts
-#EXTINF:-1 tvg-name="WJXX-TV ABC 25 (Jacksonville FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WJXX-TV ABC 25 (Jacksonville FL)
+#EXTINF:-1 tvg-id="WJXX-DT.us_locals1" tvg-name="FL | Jacksonsville | ABC WJXX" group-title="Local - ABC",WJXX-TV ABC 25 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38245.ts
-#EXTINF:-1 tvg-name="WFOX-TV FOX 30 (Jacksonville FL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFOX-TV FOX 30 (Jacksonville FL)
+#EXTINF:-1 tvg-id="WFOX-DT.us_locals1" tvg-name="FL | Jacksonsville | FOX WFOX" group-title="Local - FOX",WFOX-TV FOX 30 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89491.ts
-#EXTINF:-1 tvg-name="WJAX-TV CBS 47 (Jacksonville FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WJAX-TV CBS 47 (Jacksonville FL)
+#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" tvg-name="FL | Jacksonsville | CBS WJAX" group-title="Local - CBS",WJAX-TV CBS 47 (Jacksonville FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89490.ts
-#EXTINF:-1 tvg-name="WPTV-TV NBC 5 (West Palm Beach FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WPTV-TV NBC 5 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="WPTV-DT.us_locals1" tvg-name="FL | WPB | NBC WPTV" group-title="Local - NBC",WPTV-TV NBC 5 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89512.ts
-#EXTINF:-1 tvg-name="WPEC-TV CBS 12 (West Palm Beach FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WPEC-TV CBS 12 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-name="FL | WPB | CBS WPEC" group-title="Local - CBS",WPEC-TV CBS 12 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89510.ts
-#EXTINF:-1 tvg-name="WPBF-TV ABC 25 (West Palm Beach FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPBF-TV ABC 25 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="WPBF-DT.us_locals1" tvg-name="FL | WPB | ABC WPBF" group-title="Local - ABC",WPBF-TV ABC 25 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/672344.ts
-#EXTINF:-1 tvg-name="WFLX-TV FOX 29 (West Palm Beach FL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFLX-TV FOX 29 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="WFLX-DT.us_locals1" tvg-name="FL | WPB | FOX WFLX" group-title="Local - FOX",WFLX-TV FOX 29 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89511.ts
-#EXTINF:-1 tvg-name="WTVX-TV CW 34 (West Palm Beach FL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WTVX-TV CW 34 (West Palm Beach FL)
+#EXTINF:-1 tvg-id="WTVX-DT.us_locals1" tvg-name="FL | WPB | CW WTVX" group-title="Local - CW/IND/MY",WTVX-TV CW 34 (West Palm Beach FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/630216.ts
-#EXTINF:-1 tvg-name="WFTX-TV FOX 4 (Naples FL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFTX-TV FOX 4 (Naples FL)
+#EXTINF:-1 tvg-id="WFTX-DT.us_locals1" tvg-name="FL | Naples | FOX WFTX" group-title="Local - FOX",WFTX-TV FOX 4 (Naples FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89482.ts
-#EXTINF:-1 tvg-name="WZVN-TV ABC 7 (Naples FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WZVN-TV ABC 7 (Naples FL)
+#EXTINF:-1 tvg-id="WZVN-DT.us_locals1" tvg-name="FL | Naples | ABC WZVN" group-title="Local - ABC",WZVN-TV ABC 7 (Naples FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38258.ts
-#EXTINF:-1 tvg-name="WINK-TV CBS 11 (Naples FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WINK-TV CBS 11 (Naples FL)
+#EXTINF:-1 tvg-id="WINK-DT.us_locals1" tvg-name="FL | Naples | CBS WINK" group-title="Local - CBS",WINK-TV CBS 11 (Naples FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89486.ts
-#EXTINF:-1 tvg-name="WBBH-TV NBC 20 (Naples FL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBH-TV NBC 20 (Naples FL)
+#EXTINF:-1 tvg-id="WBBH-DT.us_locals1" tvg-name="FL | Naples | NBC WBBH" group-title="Local - NBC",WBBH-TV NBC 20 (Naples FL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89487.ts
-#EXTINF:-1 tvg-name="KARK-TV NBC 4 (Litlle Rock AR)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KARK-TV NBC 4 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="KARK-DT.us_locals1" tvg-name="AR | Little Rock | NBC KARK" group-title="Local - NBC",KARK-TV NBC 4 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89411.ts
-#EXTINF:-1 tvg-name="KATV-TV ABC 7 (Litlle Rock AR)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KATV-TV ABC 7 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="KATV-DT.us_locals1" tvg-name="AR | Little Rock | ABC KATV" group-title="Local - ABC",KATV-TV ABC 7 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/525686.ts
-#EXTINF:-1 tvg-name="KTHV-TV CBS 11 (Litlle Rock AR)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTHV-TV CBS 11 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="KTHV-DT.us_locals1" tvg-name="AR | Little Rock | CBS KTVH " group-title="Local - CBS",KTHV-TV CBS 11 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89409.ts
-#EXTINF:-1 tvg-name="KLRT-TV FOX 16 (Litlle Rock AR)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KLRT-TV FOX 16 (Litlle Rock AR)
+#EXTINF:-1 tvg-id="KLRT-DT.us_locals1" tvg-name="AR | Little Rock | FOX KLRT" group-title="Local - FOX",KLRT-TV FOX 16 (Litlle Rock AR)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89410.ts
-#EXTINF:-1 tvg-name="WBRC-TV FOX 6 (Birmingham AL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WBRC-TV FOX 6 (Birmingham AL)
+#EXTINF:-1 tvg-id="WBRC-DT.us_locals1" tvg-name="AL | Birmingham | FOX WBRC" group-title="Local - FOX",WBRC-TV FOX 6 (Birmingham AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/75346.ts
-#EXTINF:-1 tvg-name="WVTM-TV NBC 13 (Birmingham AL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVTM-TV NBC 13 (Birmingham AL)
+#EXTINF:-1 tvg-id="WVTM-DT.us_locals1" tvg-name="AL | Birmingham | NBC WVTM" group-title="Local - NBC",WVTM-TV NBC 13 (Birmingham AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/75348.ts
-#EXTINF:-1 tvg-name="WIAT-TV CBS 42 (Birmingham AL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WIAT-TV CBS 42 (Birmingham AL)
+#EXTINF:-1 tvg-id="WIAT-DT.us_locals1" tvg-name="AL | Birmingham | CBS WIAT" group-title="Local - CBS",WIAT-TV CBS 42 (Birmingham AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/75347.ts
-#EXTINF:-1 tvg-name="WABM-TV ABC 68 (Birmingham AL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABM-TV ABC 68 (Birmingham AL)
+#EXTINF:-1 tvg-id="WABM-DT.us_locals1" tvg-name="AL | Birmingham | ABC WABM" group-title="Local - ABC",WABM-TV ABC 68 (Birmingham AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38263.ts
-#EXTINF:-1 tvg-name="WHNT-TV CBS 19 (Huntsville AL)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WHNT-TV CBS 19 (Huntsville AL)
+#EXTINF:-1 tvg-id="WHNT-DT.us_locals1" tvg-name="AL | Huntsville | CBS WHNT" group-title="Local - CBS",WHNT-TV CBS 19 (Huntsville AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/75356.ts
-#EXTINF:-1 tvg-name="WAAY-TV ABC 31 (Huntsville AL)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WAAY-TV ABC 31 (Huntsville AL)
+#EXTINF:-1 tvg-id="WAAY-DT.us_locals1" tvg-name="AL | Huntsville | ABC WAAY" group-title="Local - ABC",WAAY-TV ABC 31 (Huntsville AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38262.ts
-#EXTINF:-1 tvg-name="WAFF-TV NBC 48 (Huntsville AL)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAFF-TV NBC 48 (Huntsville AL)
+#EXTINF:-1 tvg-id="WAFF-DT.us_locals1" tvg-name="AL | Huntsville | NBC WAFF" group-title="Local - NBC",WAFF-TV NBC 48 (Huntsville AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/75355.ts
-#EXTINF:-1 tvg-name="WZDX-TV FOX 54 (Huntsville AL)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WZDX-TV FOX 54 (Huntsville AL)
+#EXTINF:-1 tvg-id="WZDX-DT.us_locals1" tvg-name="AL | Huntsville | FOX WZDX" group-title="Local - FOX",WZDX-TV FOX 54 (Huntsville AL)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/75354.ts
-#EXTINF:-1 tvg-name="KTVI-TV FOX 2 (St. Louis MO)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTVI-TV FOX 2 (St. Louis MO)
+#EXTINF:-1 tvg-id="KTVI-DT.us_locals1" tvg-name="MO | St Louis | FOX KTVI" group-title="Local - FOX",KTVI-TV FOX 2 (St. Louis MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2505.ts
-#EXTINF:-1 tvg-name="KMOV-TV CBS 4 (St. Louis MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMOV-TV CBS 4 (St. Louis MO)
+#EXTINF:-1 tvg-id="KMOV" tvg-name="MO | St Louis | CBS KMOV" group-title="Local - CBS",KMOV-TV CBS 4 (St. Louis MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2619.ts
-#EXTINF:-1 tvg-name="KSDK-TV NBC 5 (St. Louis MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSDK-TV NBC 5 (St. Louis MO)
+#EXTINF:-1 tvg-id="KSDK-DT.us_locals1" tvg-name="MO | St Louis | NBC KSDK" group-title="Local - NBC",KSDK-TV NBC 5 (St. Louis MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2430.ts
-#EXTINF:-1 tvg-name="KPLR-TV CW 11 (St. Louis MO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KPLR-TV CW 11 (St. Louis MO)
+#EXTINF:-1 tvg-id="KPLR-DT.us_locals1" tvg-name="MO | St Louis | CW KPLR" group-title="Local - CW/IND/MY",KPLR-TV CW 11 (St. Louis MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/597163.ts
-#EXTINF:-1 tvg-name="KDNL-TV ABC 30 (St. Louis MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KDNL-TV ABC 30 (St. Louis MO)
+#EXTINF:-1 tvg-id="KDNL-DT.us_locals1" tvg-name="MO | St Louis | ABC KDNL" group-title="Local - ABC",KDNL-TV ABC 30 (St. Louis MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2667.ts
-#EXTINF:-1 tvg-name="KOMU-TV NBC 8.1 (Jefferson City MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOMU-TV NBC 8.1 (Jefferson City MO)
+#EXTINF:-1 tvg-id="KOMU-DT.us_locals1" tvg-name="MO | Jefferson City | NBC KOMU" group-title="Local - NBC",KOMU-TV NBC 8.1 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38274.ts
-#EXTINF:-1 tvg-name="KOMU-DT CW+ 8.3 (Jefferson City MO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KOMU-DT CW+ 8.3 (Jefferson City MO)
+#EXTINF:-1 tvg-id="KOMU-DT3.us_locals1" tvg-name="MO | Jefferson City | CW KOMU" group-title="Local - CW/IND/MY",KOMU-DT CW+ 8.3 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/629880.ts
-#EXTINF:-1 tvg-name="KRCG-TV CBS 13 (Jefferson City MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KRCG-TV CBS 13 (Jefferson City MO)
+#EXTINF:-1 tvg-id="KRCG-DT.us_locals1" tvg-name="MO | Jefferson City | CBS KRCG" group-title="Local - CBS",KRCG-TV CBS 13 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38272.ts
-#EXTINF:-1 tvg-name="KMIZ-TV ABC 17.1 (Jefferson City MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KMIZ-TV ABC 17.1 (Jefferson City MO)
+#EXTINF:-1 tvg-id="KMIZ-DT.us_locals1" tvg-name="MO | Jefferson City | ABC KMIZ" group-title="Local - ABC",KMIZ-TV ABC 17.1 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38271.ts
-#EXTINF:-1 tvg-name="KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)
+#EXTINF:-1 tvg-id="KMIZ-DT3.us_locals1" tvg-name="MO | Jefferson City | MY KMIZ" group-title="Local - CW/IND/MY",KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-#EXTINF:-1 tvg-name="KQFX-TV FOX 22 (Jefferson City MO)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KQFX-TV FOX 22 (Jefferson City MO)
+#EXTINF:-1 tvg-id="KQFX-DT.us_locals1" tvg-name="MO | Jefferson City | FOX KQFX" group-title="Local - FOX",KQFX-TV FOX 22 (Jefferson City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38273.ts
-#EXTINF:-1 tvg-name="KCTV-TV CBS 5 (Kansas City MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCTV-TV CBS 5 (Kansas City MO)
+#EXTINF:-1 tvg-id="KCTV-DT.us_locals1" tvg-name="MO | Kansas City | CBS KCTV" group-title="Local - CBS",KCTV-TV CBS 5 (Kansas City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2638.ts
-#EXTINF:-1 tvg-name="KMBC-TV ABC 9 (Kansas City MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KMBC-TV ABC 9 (Kansas City MO)
+#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" tvg-name="MO | Kansas City | ABC KMBC" group-title="Local - ABC",KMBC-TV ABC 9 (Kansas City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2685.ts
-#EXTINF:-1 tvg-name="WDAF-TV FOX 4 (Kansas City MO)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WDAF-TV FOX 4 (Kansas City MO)
+#EXTINF:-1 tvg-id="WDAF-DT.us_locals1" tvg-name="MO | Kansas City | FOX WDAF" group-title="Local - FOX",WDAF-TV FOX 4 (Kansas City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2552.ts
-#EXTINF:-1 tvg-name="KCWE-TV CW 29 (Kansas City MO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KCWE-TV CW 29 (Kansas City MO)
+#EXTINF:-1 tvg-id="KCWE-DT.us_locals1" tvg-name="MO | Kansas City | CW KCWE" group-title="Local - CW/IND/MY",KCWE-TV CW 29 (Kansas City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/629896.ts
-#EXTINF:-1 tvg-name="KSHB-TV NBC 41 (Kansas City MO)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSHB-TV NBC 41 (Kansas City MO)
+#EXTINF:-1 tvg-id="KSHB-DT.us_locals1" tvg-name="MO | Kansas City | NBC KSHB" group-title="Local - NBC",KSHB-TV NBC 41 (Kansas City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89644.ts
-#EXTINF:-1 tvg-name="KMCI-TV Ind./NBC 38 (Kansas City MO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KMCI_The_Spot_-_Kansas_City_38_%282025%29.svg/2560px-KMCI_The_Spot_-_Kansas_City_38_%282025%29.svg.png" group-title="Local Channels (Not 24/7)",KMCI-TV Ind./NBC 38 (Kansas City MO)
-http://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
-#EXTINF:-1 tvg-name="KSMO-TV MyNetworkTV 62 (Kansas City MO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KSMO-TV MyNetworkTV 62 (Kansas City MO)
+#EXTINF:-1 tvg-id="KMCI-DT.us_locals1" tvg-name="MO | Kansas City | KMCI" group-title="Offline",KMCI-TV Ind./NBC 38 (Kansas City MO)
+
+#EXTINF:-1 tvg-id="KSMO-DT.us_locals1" tvg-name="MO | Kansas City | MY KSMO" group-title="Local - CW/IND/MY",KSMO-TV MyNetworkTV 62 (Kansas City MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38288.ts
-#EXTINF:-1 tvg-name="WREG-TV CBS 3 (Memphis TN)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WREG-TV CBS 3 (Memphis TN)
+#EXTINF:-1 tvg-id="WREG-DT.us_locals1" tvg-name="TN | Memphis | CBS WREG" group-title="Local - CBS",WREG-TV CBS 3 (Memphis TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/81884.ts
-#EXTINF:-1 tvg-name="WMC-TV NBC 5 (Memphis TN)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WMC-TV NBC 5 (Memphis TN)
+#EXTINF:-1 tvg-id="WMC-DT.us_locals1" tvg-name="TN | Memphis | NBC WMC" group-title="Local - NBC",WMC-TV NBC 5 (Memphis TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/81883.ts
-#EXTINF:-1 tvg-name="WHBQ-TV FOX 13 (Memphis TN)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WHBQ-TV FOX 13 (Memphis TN)
+#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="TN | Memphis | FOX WHBQ" group-title="Local - FOX",WHBQ-TV FOX 13 (Memphis TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/81882.ts
-#EXTINF:-1 tvg-name="WYPL-TV 18 (Memphis TN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/WYPL_Memphis_20018.png" group-title="Local Channels (Not 24/7)",WYPL-TV 18 (Memphis TN)
+#EXTINF:-1 tvg-id="WYPL-DT.us_locals1" tvg-name="TN | Memphis | WYPL" group-title="Local - CW/IND/MY",WYPL-TV 18 (Memphis TN)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 tvg-name="WATN-TV ABC 24 (Memphis TN)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WATN-TV ABC 24 (Memphis TN)
+#EXTINF:-1 tvg-id="WATN-DT.us_locals1" tvg-name="TN | Memphis | ABC WATN" group-title="Local - ABC",WATN-TV ABC 24 (Memphis TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38251.ts
-#EXTINF:-1 tvg-name="WKRN-TV ABC 2 (Nashville TN)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WKRN-TV ABC 2 (Nashville TN)
+#EXTINF:-1 tvg-id="WKRN-DT.us_locals1" tvg-name="TN | Nashville | ABC WKRN" group-title="Local - ABC",WKRN-TV ABC 2 (Nashville TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2681.ts
-#EXTINF:-1 tvg-name="WSMV-TV NBC 4 (Nashville TN)" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WSMV-TV NBC 4 (Nashville TN)
+#EXTINF:-1 tvg-id="WSMV-DT.us_locals1" tvg-name="TN | Nashville | NBC WSMV" group-title="Local - NBC",WSMV-TV NBC 4 (Nashville TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2449.ts
-#EXTINF:-1 tvg-name="WTVF-TV CBS 5 (Nashville TN)" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVF-TV CBS 5 (Nashville TN)
+#EXTINF:-1 tvg-id="WTVF-DT.us_locals1" tvg-name="TN | Nashville | CBS WTVF" group-title="Local - CBS",WTVF-TV CBS 5 (Nashville TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2633.ts
-#EXTINF:-1 tvg-name="WZTV-TV FOX 17.1 (Nashville TN)" tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WZTV-TV FOX 17.1 (Nashville TN)
+#EXTINF:-1 tvg-id="WZTV-DT.us_locals1" tvg-name="TN | Nashville | FOX WZTV" group-title="Local - FOX",WZTV-TV FOX 17.1 (Nashville TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2546.ts
-#EXTINF:-1 tvg-name="WZTV-DT CW 17.2 (Nashville TN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WZTV-DT CW 17.2 (Nashville TN)
+#EXTINF:-1 tvg-id="WZTV-DT2.us_locals1" tvg-name="TN | Nashville | CW WZTV" group-title="Local - CW/IND/MY",WZTV-DT CW 17.2 (Nashville TN)
 http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183472.ts
-#EXTINF:-1 tvg-name="WUXP-TV MyNetworkTV 30 (Nashville TN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WUXP-TV MyNetworkTV 30 (Nashville TN)
+#EXTINF:-1 tvg-id="WUXP-DT.us_locals1" tvg-name="TN | Nashville | MY WUXP" group-title="Local - CW/IND/MY",WUXP-TV MyNetworkTV 30 (Nashville TN)
 http://kstv.us:8080/live/N427DpynGE/7049166651/49093.ts
-#EXTINF:-1 tvg-name="WNAB-TV CW 58 (Nashville TN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WNAB-TV CW 58 (Nashville TN)
+#EXTINF:-1 tvg-id="WNAB-DT.us_locals1" tvg-name="TN | Nashville | CW WNAB" group-title="Local - CW/IND/MY",WNAB-TV CW 58 (Nashville TN)
 http://kstv.us:8080/live/N427DpynGE/7049166651/49091.ts
 #EXTINF:-1 tvg-name="WATE-TV ABC 6 (Knoxville TN)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WATE-TV ABC 6 (Knoxville TN)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/620009.ts
@@ -1273,10 +1271,6 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/243548.ts
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:-1 tvg-id="WOSU-DT.us_locals1" tvg-name="WOSU-TV PBS 34 (Columbus OH)" group-title="Kids & Family",WOSU-TV PBS 34 (Columbus OH)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/446782.ts
-#EXTINF:-1 tvg-id="WCET-DT.us_locals1" tvg-name="WCET-TV CET PBS 48 (Cincinnati OH)" group-title="Offline",WCET-TV CET PBS 48 (Cincinnati OH)
-
-#EXTINF:-1 tvg-id="WTVS-DT.us_locals1" tvg-name="WTVS-TV PBS 56.1 (Detroit MI)" group-title="Offline",WTVS-TV PBS 56.1 (Detroit MI)
-
 #EXTINF:-1 tvg-name="WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Kids & Family",WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)
 https://d2jalth387y2js.cloudfront.net/test.m3u8
 #EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="WTTW-TV PBS 11.1 (Chicago IL)" group-title="Kids & Family",WTTW-TV PBS 11.1 (Chicago IL)
@@ -1285,8 +1279,6 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/470359.ts
 http://68.251.105.81:5004/auto/v11.2
 #EXTINF:-1 tvg-id="KMOS-DT.us_locals1" tvg-name="KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)" group-title="Kids & Family",KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="KCPT-DT.us_locals1" tvg-name="KCPT-TV PBS 19 (Kansas City MO)" group-title="Offline",KCPT-TV PBS 19 (Kansas City MO)
-
 #EXTINF:-1 tvg-id="KETC-DT.us_locals1" tvg-name="KETC-TV Nine PBS 9 (St. Louis MO)" group-title="Kids & Family",KETC-TV Nine PBS 9 (St. Louis MO)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/470333.ts
 #EXTINF:-1 tvg-id="KETS-DT.us_locals1" tvg-name="KETS-TV PBS 2 (Little Rock AR)" group-title="Kids & Family",KETS-TV PBS 2 (Little Rock AR)
@@ -2051,7 +2043,7 @@ https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
 #EXTINF:-1 tvg-name="WDWL-DT1 36 (Bayamon PR)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",WDWL-DT1 36 (Bayamon PR)
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-#EXTINF:-1 tvg-name="WECN-TV Único TV, Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",WECN-TV Único TV, Canal 64 (Puerto Rico)
+#EXTINF:-1 tvg-name="WECN-TV Único TV, Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 64 (Puerto Rico)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",WECN-TV Único TV, Canal 64 (Puerto Rico)
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-name="Telemicro (Dominican Republic)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Telemicro (Dominican Republic)
 https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
@@ -2321,8 +2313,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg01515-blueskyeus-amg01515c7-cw-us-4892.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-haunttvus-cwus/playlist.m3u8
 #EXTINF:-1 tvg-name="Meateater" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Meateater
 https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="CuriosityStream.us2" tvg-name="CuriosityStream" group-title="Offline",Curiosity Stream
-
 #EXTINF:-1 tvg-name="REELZ (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Entertainment",REELZ (West)
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ (East)" group-title="Entertainment",REELZ (East)
@@ -2693,8 +2683,6 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/333484.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/512977.ts
 #EXTINF:-1 tvg-id="get.us2" tvg-name="Great Entertainment Television" group-title="Entertainment",Great. (Entertainment Television)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/30928.ts
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Get TV" group-title="Offline",Get TV
-
 #EXTINF:-1 tvg-id="plex.tv.GET.Comedy.plex" tvg-name="Get Comedy" group-title="Entertainment",Get Comedy
 https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies!" group-title="Movies",Movies!
@@ -2747,8 +2735,6 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/57968.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/57969.ts
 #EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (East)" group-title="Entertainment",MTV Classic (East)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/57969.ts
-#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" group-title="Offline",MTV Live
-
 #EXTINF:-1 tvg-name="Logo" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="LGBT",Logo
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/88970.ts
 #EXTINF:-1 tvg-id="plex.tv.OUTtv.Proud.plex" tvg-name="OUTtv Proud" group-title="Entertainment",OUTtv Proud
@@ -2853,7 +2839,7 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 https://226e16455804443d8a746edf3b5ad1ba.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsTV/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Just.For.Laughs.Gags.plex" tvg-name="Just for Laughs Gags" group-title="Entertainment",Just for Laughs Gags
 https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Funny.Or.Die,.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",Funny Or Die, Inc.
+#EXTINF:-1 tvg-id="plex.tv.Funny.Or.Die,.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",.Inc..plex" tvg-name="Funny Or Die, Inc." group-title="Entertainment",Funny Or Die, Inc.
 https://funny-or-die-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.FilmRise.Comedy.plex" tvg-name="FilmRise Comedy" group-title="Entertainment",FilmRise Comedy
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6W1W8VrxpE83hnx_JscB
@@ -2955,8 +2941,6 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2655.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/647340.ts
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV" group-title="Entertainment",SundanceTV
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3759.ts
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E (Arts & Entertainment)" group-title="Offline",A&E (Arts & Entertainment)
-
 #EXTINF:-1 tvg-name="CMT (Country Music Television) (West)" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Entertainment",CMT (Country Music Television) (West)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/631836.ts
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (Country Music Television) (East)" group-title="Entertainment",CMT (Country Music Television) (East)
@@ -3119,8 +3103,6 @@ https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-s
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 tvg-id="Great.American.Faith.and.Living.us2" tvg-name="GAC Great American Faith & Living" group-title="Entertainment",GAC Great American Faith & Living
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/737618.ts
-#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="GAC Great American Family" group-title="Offline",GAC Great American Family
-
 #EXTINF:-1 tvg-id="Pure.Flix.TV.us2" tvg-name="Pure Flix TV" group-title="Movies",GAC Great American Pure Flix TV
 https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist/amg01884-gacmediafast-pureflixtv-vizious/playlist.m3u8
 #EXTINF:-1 tvg-name="GAC Great American RomComs" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Entertainment",GAC Great American RomComs
@@ -6763,7 +6745,7 @@ https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-name="CDM Internacional" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",CDM Internacional
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
-#EXTINF:-1 tvg-name="EBN Televisión, Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",EBN Televisión, Canal 46.1
+#EXTINF:-1 tvg-name="EBN Televisión, Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Canal 46.1" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",EBN Televisión, Canal 46.1
 https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
 #EXTINF:-1 tvg-name="Faro de Santidad TV" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Spanish",Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
